@@ -60,11 +60,12 @@ span {
 }
 #margin {
   background: rgba(26, 35, 126, 0.6);
-  color: lightgray;
-  color: white;
+color: lightgray;
+
   height: 400px;
   font-size: 1.1em;
 }
 #margin:hover {
   background-image: linear-gradient(90deg, #1A237E, #90CAF9);
+    color: #FAFAFA;
 }
