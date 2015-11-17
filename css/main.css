@@ -2,6 +2,10 @@
    Author's custom styles
    ========================================================================== */
 
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
 * {
   font-family: roboto, sans-serif;
 }
@@ -11,10 +15,10 @@ footer {
 #navbar-brand {
   background-color: #AD1457;
 }
-h2{
+h2 {
   font-weight: bold;
 }
-span{
+span {
   text-decoration: underline;
   font-style: italic;
   font-weight: bold;
@@ -42,7 +46,9 @@ span{
   font-size: 1.2em;
 }
 #margin {
-  background-image: image("img001.jpg");
+  background-image: url('img001.jpg');
+  display: compact;
+  background-repeat: no-repeat;
   height: 400px;
   font-size: 1.1em;
 }
