@@ -19,10 +19,8 @@ h2 {
   font-weight: bold;
 }
 span {
-
   font-style: italic;
   font-weight: bold;
-  
   border-radius: 5px;
 }
 .jumbotron {
@@ -43,7 +41,6 @@ span {
 }
 #bordure {
   background: #B2DFDB;
-
   height: 400px;
   font-size: 1.2em;
 }
