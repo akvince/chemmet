@@ -1,0 +1,40 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+*{
+  font-family: roboto, sans-serif;
+}
+
+footer{
+  text-align: right;
+}
+
+#navbar-brand {
+  background-color: #AD1457;
+}
+
+.jumbotron{
+  background: #2196F3;
+  box-shadow: 4px 4px 4px gray;
+  color: white;
+}
+#back{
+  background-image:linear-gradient(60deg,#880E4F, #FF1744);
+  height: 400px;
+  color: lightgray;
+}
+#font{
+background-color: lightgray;
+height: 400px;
+}
+#bordure{
+background-image:linear-gradient(90deg,#1A237E, #BBDEFB);
+color: white;
+height: 400px;
+}
+#margin{
+background: #FCE4EC;
+height: 400px;
+}
