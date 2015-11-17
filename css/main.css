@@ -19,9 +19,11 @@ h2 {
   font-weight: bold;
 }
 span {
-  text-decoration: underline;
+
   font-style: italic;
   font-weight: bold;
+  
+  border-radius: 5px;
 }
 .jumbotron {
   background: #2196F3;
@@ -40,15 +42,14 @@ span {
   font-size: 1.2em;
 }
 #bordure {
-  background-image: linear-gradient(90deg, #1A237E, #90CAF9);
-  color: white;
+  background: #B2DFDB;
+
   height: 400px;
   font-size: 1.2em;
 }
 #margin {
-  background-image: url('img001.jpg');
-  display: compact;
-  background-repeat: no-repeat;
+  background-image: linear-gradient(90deg, #1A237E, #90CAF9);
+  color: white;
   height: 400px;
   font-size: 1.1em;
 }
