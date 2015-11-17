@@ -21,7 +21,7 @@ span{
 }
 .jumbotron {
   background: #2196F3;
-  box-shadow: 5px 5px 5px #BDBDBD;
+  box-shadow: 3px 7px 5px #BDBDBD;
   color: white;
 }
 #back {
@@ -42,7 +42,7 @@ span{
   font-size: 1.2em;
 }
 #margin {
-  background-image: url("img/img02.jpg");
+  background-image: image("img001.jpg");
   height: 400px;
   font-size: 1.1em;
 }
