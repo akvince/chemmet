@@ -1,40 +1,38 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-*{
+
+* {
   font-family: roboto, sans-serif;
 }
-
-footer{
+footer {
   text-align: right;
 }
-
 #navbar-brand {
   background-color: #AD1457;
 }
-
-.jumbotron{
+.jumbotron {
   background: #2196F3;
   box-shadow: 5px 5px 5px #BDBDBD;
   color: white;
 }
-#back{
-  background-image:linear-gradient(60deg,#880E4F, #FF1744);
+#back {
+  background-image: linear-gradient(60deg, #880E4F, #FF1744);
   height: 400px;
-  color: lightgray;
+  color: #F5F5F5;
+  font-size: 1.2em;
 }
-#font{
-background-color: lightgray;
-height: 400px;
+#font {
+  background-color: lightgray;
+  height: 400px;
+  font-size: 1.2em;
 }
-#bordure{
-background-image:linear-gradient(90deg,#1A237E, #90CAF9);
-color: white;
-height: 400px;
+#bordure {
+  background-image: linear-gradient(90deg, #1A237E, #90CAF9);
+  color: white;
+  height: 400px;
 }
-#margin{
-background: #FCE4EC;
-height: 400px;
+#margin {
+  background-image: url("img/img02.jpg");
+  height: 400px;
 }
