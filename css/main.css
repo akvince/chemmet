@@ -29,24 +29,42 @@ span {
   color: white;
 }
 #back {
-  background-image: linear-gradient(60deg, #880E4F, #FF1744);
+  background-color: rgba(136, 14, 79, 0.6);
+  color: lightgray;
   height: 400px;
   color: #F5F5F5;
   font-size: 1.2em;
 }
+#back:hover {
+  background-image: linear-gradient(60deg, #880E4F, #FF1744);
+}
 #font {
-  background-color: lightgray;
+  background-color: rgba(189, 189, 189, 0.6);
+  color: #BDBDBD;
   height: 400px;
   font-size: 1.2em;
+}
+#font:hover {
+  background-color: #BDBDBD;
+  color: #424242;
 }
 #bordure {
-  background: #B2DFDB;
+  background: rgba(178, 223, 219, 0.6);
   height: 400px;
   font-size: 1.2em;
+  color: lightgray;
+}
+#bordure:hover {
+  background-color: #B2DFDB;
+  color: #424242;
 }
 #margin {
-  background-image: linear-gradient(90deg, #1A237E, #90CAF9);
+  background: rgba(26, 35, 126, 0.6);
+  color: lightgray;
   color: white;
   height: 400px;
   font-size: 1.1em;
+}
+#margin:hover {
+  background-image: linear-gradient(90deg, #1A237E, #90CAF9);
 }
