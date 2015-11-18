@@ -41,26 +41,26 @@ span {
 
 }
 #font {
-  background-color: rgba(189, 189, 189, 0.6);
+  background-color: rgba(29, 233, 182, 0.6);
   color: #BDBDBD;
   height: 400px;
   font-size: 1.2em;
 }
 #font:hover {
-  background-color: #BDBDBD;
-  color: #424242;
-  box-shadow: 3px 3px 3px 3px lightgray;
+  background-image: linear-gradient(180deg, #1DE9B6, #A7FFEB);
+  color: #757575;
+  box-shadow: 0px 3px 3px 0px gray;
 
 }
 #bordure {
-  background: rgba(178, 223, 219, 0.6);
+  background: rgba(255, 152, 0, 0.6);
   height: 400px;
   font-size: 1.2em;
   color: lightgray;
 }
 #bordure:hover {
-  background-color: #B2DFDB;
-  color: #424242;
+  background-image: linear-gradient(30deg, #FF9800, #FFB74D);
+  color: #616161;
   box-shadow: 3px 3px 3px 3px lightgray;
 
 }
@@ -73,5 +73,5 @@ span {
 #margin:hover {
   background-image: linear-gradient(90deg, #1A237E, #90CAF9);
   color: #FAFAFA;
-  box-shadow: 3px 3px 3px 3px lightgray;
+  box-shadow: 3px 3px 3px 0px lightgray;
 }
