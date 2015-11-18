@@ -37,6 +37,8 @@ span {
 }
 #back:hover {
   background-image: linear-gradient(60deg, #880E4F, #FF1744);
+  box-shadow: 3px 3px 3px 3px lightgray;
+
 }
 #font {
   background-color: rgba(189, 189, 189, 0.6);
@@ -47,6 +49,8 @@ span {
 #font:hover {
   background-color: #BDBDBD;
   color: #424242;
+  box-shadow: 3px 3px 3px 3px lightgray;
+
 }
 #bordure {
   background: rgba(178, 223, 219, 0.6);
@@ -57,15 +61,17 @@ span {
 #bordure:hover {
   background-color: #B2DFDB;
   color: #424242;
+  box-shadow: 3px 3px 3px 3px lightgray;
+
 }
 #margin {
   background: rgba(26, 35, 126, 0.6);
-color: lightgray;
-
+  color: lightgray;
   height: 400px;
   font-size: 1.1em;
 }
 #margin:hover {
   background-image: linear-gradient(90deg, #1A237E, #90CAF9);
-    color: #FAFAFA;
+  color: #FAFAFA;
+  box-shadow: 3px 3px 3px 3px lightgray;
 }
