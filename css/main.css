@@ -31,30 +31,28 @@ span {
 #back {
   background-color: rgba(136, 14, 79, 0.6);
   color: lightgray;
-  height: 400px;
+  height: 430px;
   color: #F5F5F5;
   font-size: 1.2em;
 }
 #back:hover {
   background-image: linear-gradient(60deg, #880E4F, #FF1744);
   box-shadow: 3px 3px 3px 3px lightgray;
-
 }
 #font {
   background-color: rgba(29, 233, 182, 0.6);
   color: #BDBDBD;
-  height: 400px;
+  height: 430px;
   font-size: 1.2em;
 }
 #font:hover {
   background-image: linear-gradient(180deg, #1DE9B6, #A7FFEB);
   color: #757575;
   box-shadow: 0px 3px 3px 0px gray;
-
 }
 #bordure {
   background: rgba(255, 152, 0, 0.6);
-  height: 400px;
+  height: 430px;
   font-size: 1.2em;
   color: lightgray;
 }
@@ -62,16 +60,37 @@ span {
   background-image: linear-gradient(30deg, #FF9800, #FFB74D);
   color: #616161;
   box-shadow: 3px 3px 3px 3px lightgray;
-
 }
 #margin {
   background: rgba(26, 35, 126, 0.6);
   color: lightgray;
-  height: 400px;
+  height: 430px;
   font-size: 1.1em;
 }
 #margin:hover {
   background-image: linear-gradient(90deg, #1A237E, #90CAF9);
   color: #FAFAFA;
   box-shadow: 3px 3px 3px 0px lightgray;
+}
+code {
+  color: lightgray;
+  border-radius: 2px;
+}
+code:hover {
+  color: #757575;
+  font-weight: bold;
+  box-shadow: 2px 2px 2px lightgray;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: gray;
+}
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+a:active {
+  color: black;
 }
