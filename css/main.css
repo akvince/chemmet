@@ -73,11 +73,13 @@ span {
   box-shadow: 3px 3px 3px 0px lightgray;
 }
 code {
-  color: lightgray;
-  border-radius: 2px;
+  background-color: #ECEFF1; 
+  color: gray;
+  border-radius: 0px;
+  font-weight: bold;
 }
 code:hover {
-  color: #757575;
+color: #424242;
   font-weight: bold;
   box-shadow: 2px 2px 2px lightgray;
 }
